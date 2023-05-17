@@ -1,0 +1,34 @@
+{
+  "name": "generator-delta-sharing",
+  "version": "0.1.0",
+  "description": "Yeoman generator for Delta Sharing Apps.",
+  "files": [
+    "generators"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goodwillpunning/generator-delta-sharing.git"
+  },
+  "keywords": [
+    "delta",
+    "sharing",
+    "delta",
+    "lake",
+    "lakehouse",
+    "yeoman-generator"
+  ],
+  "author": "Will Girten",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/goodwillpunning/generator-delta-sharing/issues"
+  },
+  "homepage": "https://github.com/goodwillpunning/generator-delta-sharing#readme",
+  "dependencies": {
+    "node": "^20.1.0",
+    "yeoman-generator": "^5.8.0"
+  }
+}
