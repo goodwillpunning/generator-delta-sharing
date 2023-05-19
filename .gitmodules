@@ -1,0 +1,3 @@
+[submodule "generators/app/templates/delta-sharing-app-template"]
+	path = generators/app/templates/delta-sharing-app-template
+	url = https://github.com/goodwillpunning/delta-sharing-app-template.git
