@@ -28,7 +28,10 @@
   },
   "homepage": "https://github.com/goodwillpunning/generator-delta-sharing#readme",
   "dependencies": {
+    "lodash.merge": "^4.6.2",
     "node": "^20.1.0",
+    "parse-author": "^2.0.0",
+    "validate-npm-package-name": "^5.0.0",
     "yeoman-generator": "^5.8.0"
   }
 }
