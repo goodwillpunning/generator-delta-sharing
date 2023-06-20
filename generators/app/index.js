@@ -10,7 +10,7 @@ const extend = require('lodash.merge');
 const NODE_APP_TYPE = "Node.js (backend only)";
 const REACT_APP_TYPE = "React.js App";
 
-const NODE_TEMPLATE_PATH = "delta-sharing-app-template/**";
+const NODE_TEMPLATE_PATH = "delta-sharing-nodejs-template/**";
 const REACT_TEMPLATE_PATH = "delta-sharing-app-template/**";
 
 module.exports = class extends Generator {
